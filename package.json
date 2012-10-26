@@ -1,0 +1,29 @@
+{
+    "name" : "declarejs",
+    "version" : "0.1.0",
+    "description" : "Dojo's class inheritance packaged for node",
+    "main" : "./lib/declarejs",
+    "dependencies" : {
+        "pkginfo" : "0.2.x",
+        "mocha" : "~1.6.0",
+        "should" : "~1.2.0"
+    },
+    "devDependencies" : {},
+    "scripts" : {
+        "test" : "NODE_PATH=lib node_modules/.bin/mocha"
+    },
+    "engines" : {
+        "node" : ">= 0.4.0"
+    },
+    "licenses" : [
+        {
+            "type" : "NEW BSD",
+            "url" : "http://opensource.org/licenses/BSD-3-Clause"
+        }
+    ],
+    "keywords" : [
+        "express", "class", "dojo"
+    ],
+    "_id" : "declarejs@0.1.0",
+    "_from" : "declarejs@>= 0.0.0"
+}
