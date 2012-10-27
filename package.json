@@ -1,7 +1,7 @@
 {
     "name" : "declarejs",
-    "version" : "0.1.0",
-    "description" : "Dojo's class inheritance packaged for node",
+    "version" : "0.1.2",
+    "description" : "Yet another class/object inheritance simulator (Dojo's ) for node",
     "main" : "./lib/declarejs",
     "dependencies" : {
         "pkginfo" : "0.2.x",
@@ -24,6 +24,6 @@
     "keywords" : [
         "express", "class", "dojo"
     ],
-    "_id" : "declarejs@0.1.0",
+    "_id" : "declarejs@0.1.2",
     "_from" : "declarejs@>= 0.0.0"
 }
